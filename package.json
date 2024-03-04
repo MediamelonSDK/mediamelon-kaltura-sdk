@@ -1,0 +1,19 @@
+{
+  "name": "mediamelon-kaltura-sdk",
+  "version": "1.0.0",
+  "description": "mediamelon web sdk for kaltura player",
+  "main": "mmsmartstreaming_kalturaplayer.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediamelonSDK/mediamelon-kaltura-sdk.git"
+  },
+  "author": "MediaMelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MediamelonSDK/mediamelon-kaltura-sdk/issues"
+  },
+  "homepage": "https://github.com/MediamelonSDK/mediamelon-kaltura-sdk#readme"
+}
