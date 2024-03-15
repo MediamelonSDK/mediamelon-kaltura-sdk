@@ -7,7 +7,7 @@ var config = {
   ...
   plugins: {
     mediaMelonKPPlugin: {            
-      customerId: '1128815782',
+      customerId: 'CUSTOMER_ID',
       domainName: 'DOMAIN_NAME',
       subscriberTag: 'SUBSCRIBER_TAG',
       subscriberId: 'SUBSCRIBER_ID',
